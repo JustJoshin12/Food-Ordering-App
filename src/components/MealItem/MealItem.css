@@ -1,0 +1,39 @@
+.meal__item {
+  background-color: #1d1a16;
+  border-radius: 1rem;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);
+}
+
+.meal__item-article {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.meal__item-image {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+}
+
+.meal__item-price {
+  display: inline-block;
+  background-color: #312c1d;
+  color: #ffc404;
+  font-size: 0.9rem;
+  font-weight: bold;
+  padding: 0.5rem 2rem;
+  margin: 0;
+  border-radius: 4px;
+}
+
+.meal__item-description {
+  margin: 1rem;
+}
+
+.meal__item-actions {
+  margin-bottom: 1.5rem;
+}
