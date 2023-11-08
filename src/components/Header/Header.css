@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3rem 10%;
+  }
+  
+  .header__section {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  .header__section-title {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  .header__section-image {
+    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+    border-radius: 50%;
+    border: 2px solid #ffc404;
+  }
+  
+  .header__button {
+    font-size: 1.5rem;
+    font-family: "Lato", sans-serif;
+  }
