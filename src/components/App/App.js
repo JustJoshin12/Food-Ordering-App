@@ -3,6 +3,7 @@ import Meals from "../Meals/Meals.js";
 import { CartContextProvider } from "../../store/CartContext.js";
 import { UserProgressContextProvider } from "../../store/UserProgressContext.js";
 import Cart from "../Cart/Cart.js";
+import Checkout from "../Checkout/Checkout.js";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Header />
         <Meals />
         <Cart />
+        <Checkout />
       </CartContextProvider>
     </UserProgressContextProvider>
   );

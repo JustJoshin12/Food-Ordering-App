@@ -15,6 +15,13 @@
     display: flex;
     gap: 1rem;
     align-items: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 0;
+    color: #ffc404;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
   }
   
   .header__section-image {
