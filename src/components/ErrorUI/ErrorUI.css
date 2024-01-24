@@ -1,0 +1,17 @@
+.error {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(245, 151, 170);
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.error-title {
+    color: rgb(100, 6, 6);
+}
+
+.error-description {
+    color: rgb(100, 6, 6);
+}

@@ -22,7 +22,7 @@ const Header = () => {
     <header className="header">
         <div className="header__section">
             <img className="header__section-image" src={logoImg} alt="A restaurant" />
-            <h1 className="header__section-title"> ReactFood</h1>
+            <h1 className="header__section-title"> Josh's Panorama Plates</h1>
         </div>
         <nav>
             <Button textOnly onClick={handleShowCart}>Cart ({totalCartItems})</Button>
