@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Josh's Panorama Plates
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Welcome to "Josh's Panorama Plates," a dynamic and user-friendly food ordering app designed for restaurants. Our application allows users to easily pick from a curated menu of delicious dishes, add them to a checkout cart, and complete their order for delivery. Tailored for restaurant use, our app streamlines the ordering process, enhancing customer experience and operational efficiency.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Diverse Menu Selection**: A wide range of dishes to choose from, catering to varied tastes and preferences.
+- **Easy Add-to-Cart**: Intuitive interface to add dishes to the cart with a simple click.
+- **Checkout Functionality**: A smooth checkout process, where users can review their orders and provide personal information for delivery.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Target Audience
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This app is designed for use in restaurants, aiming to simplify and enhance the food ordering process for both customers and restaurant staff.
 
-### `npm test`
+## Technology Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend**: React.js, HTML, CSS
+- **Backend Integration**: Node.js
 
-### `npm run build`
+## Installation Instructions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To set up "Josh's Panorama Plates" on your local machine, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Ensure you have Node.js installed. If not, download and install it from [Node.js website](https://nodejs.org/).
+2. Clone this repository and the backend repo here[Github](https://github.com/JustJoshin12/Food-Delivery-App-BackEnd.git) to your local machine.
+3. Navigate to the project directory in your terminal or command prompt.
+4. Run `npm install` to install all the necessary packages.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage Instructions
 
-### `npm run eject`
+1. **Browse Menu**: Explore our diverse menu to find dishes you love.
+2. **Add to Cart**: Click on the 'Add to Cart' button to include your desired dishes in your order.
+3. **Review Cart**: Click the cart icon in the top right corner of the website to review your selected items.
+4. **Proceed to Checkout**: Confirm your items and proceed to checkout, where you'll provide personal details for your order.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contribution
 
-## Learn More
+We welcome contributions to "Josh's Panorama Plates." If you're interested in improving the app or adding new features, please feel free to fork the repository and submit a pull request with your changes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
